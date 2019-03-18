@@ -1,0 +1,148 @@
+voice_id,num_caller,num_receiver,date,time,is_attack,dialog
+4444444444,6094660035,9082456893,20050215,2050,False,This is mike smith from orange. I am a sales rep. would you like to buy some software. 
+5555555555,6094660036,9082456847,20050221,1254,False,Hi this is mike jones from orange. I am the sales rep. would you like a firewall. thanks bye 
+3333333333,6094660038,9082456829,20050422,1315,True,I am john doe from apple computers where I am a sales rep. could you read me your passcode to make sure our records are up to date. please visit textspeier.de thanks. bye.
+2222222222,6094660035,9082456896,20050515,1150,True,This is john candy from apple. I am a computer support tech. to keep you machine up to date I need you to install this on your computer. thanks bye. 
+1111111111,4879301873,9082456894,20050524,1433,False,hi this is moe sislack from moes tavern. I am the bartender. I am interested in advertising on campus. ok thanks. 
+6666666666,4879301856,9082456895,20050605,0834,False,this is lisa coreo with princeton university. I am a chef. I need to purchase six hundred yams. thanks. 
+9999999999,4879301867,9082456898,20050822,1436,True,this is tim rose with rose industries. I am a security officer. I need you to read me yourpassword so I can make sure it is secure. thanks bye.
+1010101010,4879301889,9082456845,20051012,0948,False,I am willard white from willard whilte industries. google.com I am the owner. I am interested in donating to the university. please send me the details. bye.
+8888888888,4879301254,9082456878,20051111,1551,True,hello this is james stock of the london financial times. I am a journalist. can you tell me some confidential information. thanks. bye. 
+7777777777,4879301874,9082456824,20051228,1421,True,this is jack bauer with the c t u. I am an operative. I need you to give me confidential information regarding margot fitzsimmons. thanks. 
+2444444444,4879301811,9082456889,20060205,1706,True,this is sally smith with rose industries. I ama purchaser. before placing anorder can you give me some private information as to the manufacturing process. thanks bye.
+2555555555,4879301800,9082456836,20060209,1219,False,this is willard white from ww industries. I am the owner. I decided I would like to name my building blowfeld labs. great. thanks. 
+2333333333,4879301820,9082456890,20060210,1041,False,hi this is auric wilson with the auric enterprise. I am a journalist. do you have any more demographical data of the university population. thanks. 
+2122222222,4879301890,9082456894,20060212,0933,False,"this is nick leshay with sun microsytems. I am an operative. I forgot who you connected me to last time, can you tell me their name. thanks. "
+2111111111,4879301833,9082456896,20060215,1631,True,hello this is amanda hill with verizon. I am sales rep. we are updating our records and noticed we do not have your passcode for you mailbox. can you please read me your passcode. thanks. 
+2666666666,6094660035,9082456830,20060416,0842,False,hi this is terry lamph from notre dame. I am an admissions representative. do you have any informatoin regarding the new s a t tests. thanks bye. 
+2777777777,6094660035,9082456867,20060518,1403,False,This is samuel blake from apple. I am a sales rep. would you like to buy some software. ok bye. 
+2999999999,6094660035,9082456890,20060520,1126,True,This is jerry johnson from orange. I am a sales rep. can you tell me the ip of your secure server so I can make sure you have the newest model. thanks. bye. 
+2010101010,6094660035,9082456892,20060819,1638,False,Hi this is mike jones from pear. I am the sales rep. would you like a firewall. thanks bye 
+2888888888,6094660035,9082456891,20061015,0952,True,I am john doe from apple where I am a sales rep. can you give me the name of your secure server so I can make sure you have the newest model. thanks. bye. 
+4444444444,6094660035,9082456893,20050215,2050,False,This is mike smith from orange. I am a Sales Rep. would you like to buy some software. 
+5555555555,6094660036,9082456847,20050221,1254,True,Hi this is mike jones from orange. I am the sales rep. just to make sure our records are up to date we need you to confirm the ip address for your secure server. Click here: 	down.mykings.pw:8888 looks good. bye.
+3333333333,6094660038,9082456829,20050422,1315,False,I am john doe from apple computers where I am a sales rep. would you like to buy some software. great. 
+2222222222,6094660035,9082456896,20050515,1150,True,This is john candy from apple. I am a Sales Rep. would you like to buy some software. great I am just going to need your password. thanks bye. 
+1111111111,4879301873,9082456894,20050524,1433,False,hi this is moe sislack from moes tavern. I am the bartender. I am interested in advertising on campus. thanks bye. 
+6666666666,4879301856,9082456895,20050605,0834,False,this is lisa coreo with princeton university. I am a chef. I need to purchase six hundred yams. thanks. 
+9999999999,4879301867,9082456898,20050822,1436,True,this is tim rose with rose industries. I am the ceo. I was told I could connect to your secure server but I do not know its name. thanks bye. 
+1010101010,4879301889,9082456845,20051012,0948,False,I am willard white from willard whilte industries. I am the owner. I am interested in donating to the university. please send me the details. bye. 
+8888888888,4879301254,9082456878,20051111,1551,False,hello this is james stock of the london financial times. I am a journalist. I was wondering if I could schedule an interview with president jiskey. ok thanks. 
+7777777777,4879301874,9082456824,20051228,1421,False,this is jack bauer with the ctu. I am an operative. Can you connect me to serious for help subverting a security system. thanks. 
+2444444444,4879301811,9082456889,20060205,1706,True,this is sally smith with rose industries. I am a network engineer. can you tell me the address of your secure server. thanks. bye. 
+2555555555,4879301800,9082456836,20060209,1219,False,this is willard white from ww industries. I am the owner. I decided I would like to name my building blowfeld labs. great. thanks. 
+2333333333,4879301820,9082456890,20060210,1041,True,hi this is auric wilson with the auric enterprise. I am a journalist. I am writing a story about hackers and was wondering if you could use the name of your secure server. great what is it. thanks. 
+2122222222,4879301890,9082456894,20060212,0933,True,this is nick leshay with sun microsytems. I am an computer support tech. to ensure you do not get locked out of you secure server I can keep you passphrase for safe keeping. great. thanks bye. 
+2111111111,4879301833,9082456896,20060215,1631,False,"hello this is amanda hill with verizon. I am sales rep. can you cancel my last order, we do not need it any more. thanks. bye. "
+2666666666,6094660035,9082456830,20060416,0842,True,hi this is terry lamph from notre dame. I am an admissions representative. I need to check some of your records with the user name and login given to me but I can not remember the name of the server. thanks. 
+2777777777,6094660035,9082456867,20060518,1403,False,This is samuel blake from apple. I am a Sales Rep. would you like to buy some software. 
+2999999999,6094660035,9082456890,20060520,1126,True,This is jerry johnson from orange. I am a computer engineeer. can you tell me the address of your secureserver. thanks bye.
+2010101010,6094660035,9082456892,20060819,1638,False,Hi this is mike jones from pear. I am the sales rep. would you like a firewall. thanks bye 
+2888888888,6094660035,9082456891,20061015,0952,False,I am john doe from apple where I am a sales rep. would you like to buy some software. great. 
+1111111111,8542359874,9082456657,20050101,1048,True,hi this is ned flanders from notre dame. I am a help desk technician. can you read me your password. no not today. bye. 
+1111111111,8542359874,9082456657,20050223,0926,True,hi this is ned flanders from notre dame. I am a help desk technician. would you give me your phone number. no not today. bye. 
+1111111111,8542359874,9082456657,20050311,1432,True,hi this is ned flanders from notre dame. I am a help desk technician. could you tell me your passcode. no not today. bye. 
+1111111111,8542359874,9082456657,20050417,1655,True,hi this is ned flanders from notre dame. I am a help desk technician. can you give me some confidential information on student joe smith. ok thanks. bye. 
+1111111111,8542359874,9082456657,20050505,1727,True,hi this is ned flanders from notre dame. I am a help desk technician. would you please install this on your computer for me. nope that is all today. bye. 
+1111111111,8542359874,9082456657,20050603,1234,True,hi this is ned flanders from notre dame. I am a help desk technician. i need you to give me your password. bye. 
+1111111111,8542359874,9082456657,20050724,0847,True,hi this is ned flanders from notre dame. I am a help desk technician. could you read me your passphrase. no not today. bye. 
+1111111111,8542359874,9082456657,20050826,1138,True,hi this is ned flanders from notre dame. I am a help desk technician. can you give me some confidential information on student terry jones. ok thanks. bye. 
+1111111111,8542359874,9082456657,20050907,1349,True,hi this is ned flanders from notre dame. I am a help desk technician. would you tell me your passcode. thanks bye. 
+1111111111,8542359874,9082456657,20051019,1150,True,hi this is ned flanders from notre dame. I am a help desk technician. i need you to install this on your computer for me. nope that is all today. bye. 
+1111111111,8542359874,9082456657,20051124,0937,True,hi this is ned flanders from notre dame. I am a help desk technician. would you read me your password. no not today. bye. 
+1111111111,8542359874,9082456657,20051228,1438,True,hi this is ned flanders from notre dame. I am a help desk technician. can you read me your phone number. no not today. bye. 
+1111111111,8542359874,9082456657,20060105,1014,True,hi this is ned flanders from notre dame. I am a help desk technician. could you read me your password. no not today. bye. 
+1111111111,8542359874,9082456657,20060216,1208,True,hi this is ned flanders from notre dame. I am a help desk technician. would you give me your passphrase. bye. 
+5555555555,6094660036,9082456847,20060202,1254,True,Hi this is michael hoeschele from purdue university. I am the security analyst. can you send me one of your white papers on security. Thanks. bye. 
+2222222222,6094660036,9082456847,20060204,1135,True,Hi this is margot fitzsimmons from purdue university. I am a public relations agent. I wanted to confirm that I know of any potentially embarrassing events that have occurred recently. thanks bye. 
+3333333333,6094660036,9082456847,20060208,0843,True,Hi this is trevor smith from purdue university. I am a consultant. I would like to change the address that my paychecks are sent to. just the house number to six. thanks bye. 
+4444444444,6094660036,9082456847,20060210,1434,True,Hi this is emily thurston from purdue university. I am a travel agent. I need the billing number for your department. thanks bye. 
+8888888888,6094660036,9082456847,20060210,1658,True,Hi this is claire foster from purdue university. I am a disaster recovery specialist. I have an updated sop for your department. I will send it over today. thanks bye 
+6666666666,6094660036,9082456847,20060211,1744,True,Hi this is doug rose from purdue university. I am an engineer. I need you to tell me how to access webmail. thanks bye. 
+1111111111,6094660036,9082456847,20060213,0922,True,Hi this is greg hoeschele from purdue university. I am an engineer. can you read me the specs for the alpha project. thanks. 
+7777777777,6094660036,9082456847,20060224,1015,True,Hi this is kevin hoeschele from purdue university. I am a system administrator. can you help me gain access to our password generation software. thanks. 
+9999999999,6094660036,9082456847,20060225,0850,True,Hi this is carolyn hoeschele from purdue university. I am a web master. can you tell me how to access the main data base. thanks. Also go to this site textspeier.de.
+1010101010,6094660036,9082456847,20060226,1331,True,Hi this is david hoeschele from purdue university. I am the head programmer. can you send me the source code for our project. thanks. 
+5555555551,6094660036,9082456847,20070203,1443,True,Hi this is michael hoeschele from purdue university. I am a security consultant. can you send me another white paper on social engineering. I must have the wrong number. bye. 
+2222222221,6094660036,9082456847,20070205,1524,True,Hi this is margot fitzsimmons from notre dame. public relations agent. I wanted to confirm again that I know of any potentially embarrassing events that have occurred recently. thanks bye. 
+3333333331,6094660036,9082456847,20070208,0835,False,Hi this is trevor smithly from purdue university. I am a consultant. I need to change my address again. oh sorry bye. 
+4444444441,6094660036,9082456847,20070209,1023,True,Hi this is emily thirsty from purdue university, https://www.purdue.edu/ . I am a travel agent. I need the billing number for your department.
+8888888881,6094660036,9082456847,20070211,1612,False,Hi this is claire foster from purdue university https://www.purdue.edu/.  disaster specialist. bye.
+6666666661,6094660036,9082456847,20070213,1447,True,Hi this is douglas rose from purdue university. I am a mechanic. can you remind me of the code to get in to the building after hours. 
+1111111112,6094660036,9082456847,20070215,1325,True,Hi this is greg hoeschele from notre dame. I am an engineer. can you send me the specs for the alpha project. thanks. 
+7777777771,6094660036,9082456847,20070218,1340,True,Hi this is michael hoeschele from purdue university. I am a system administrator. can you help me gain access to our password generation software. 
+9999999991,6094660036,9082456847,20070221,1115,True,Hi this is carolyn hoeschele from purdue university. I am a web designer. can you tell me how to access the main data base textspeier.de. thanks.
+1010101011,6094660036,9082456847,20070224,0902,True,Hi this is david hoeschele from purdue university. I am a programmer. can you send me the source code for out project, you can download it from textspeier.de. thank.
+4444444444,6094660035,9082456893,20050215,2050,False,This is mike smith from orange. I am a sales rep. would you like to buy some software. Our website is: www.google.com bye.
+5555555555,6094660036,9082456847,20050221,1254,False,Hi this is mike jones from orange. a sales rep. would you like a firewall. thanks bye. 
+3333333333,6094660038,9082456829,20050422,1315,False,I am john doe from apple computers where I am a sales rep. would you like to buy some software. great. 
+2222222222,6094660035,9082456896,20050515,1150,False,This is john candy from apple. I am a sales rep. would you like to buy some software. 
+1111111111,4879301873,9082456894,20050524,1433,False,hi this is moe sislack from moes tavern. I am the bartender. I am interested in advertising on campus. bye. 
+6666666666,4879301856,9082456895,20050605,0834,False,this is lisa coreo with princeton university. I am a chef. do you sell any produce. ok thanks. 
+9999999999,4879301867,9082456898,20050822,1436,False,this is tim rose with rose industries. c e o. you are using one of my trademarks. please stop or I will be forced to sue. bye. 
+1010101010,4879301889,9082456845,20051012,0948,False,I am willard white from willard whilte industries. I am the owner. I am interested in donating to the university. please send me the details. bye. 
+8888888888,4879301254,9082456878,20051111,1551,False,hello this is james stock of the london financial times. I am a journalist. I was wondering if I could schedule an interview with president jiskey. ok thanks. 
+7777777777,4879301874,9082456824,20051228,1421,False,this is jack bauer with the c t u. I am an operative. can you connect me to serious for help subverting a security system. thanks. 
+2444444444,4879301811,9082456889,20060205,1706,False,this is tim rose with rose industries. c e o. please disregard my last call I had the wrong university. 
+2555555555,4879301800,9082456836,20060209,1219,True,this is willard white from ww industries. I am the owner. I decided I would like to name my building blowfeld labs. great. thanks. 
+2333333333,4879301820,9082456890,20060210,1041,True,hi this is james stock with the london financial times. I am a journalist. do you have any more demographical data of the university population. thanks. 
+2122222222,4879301890,9082456894,20060212,0933,True,"this is jack bauer with the counter terrorism unit. I am an operative. I forgot who you connected me to last time, can you tell me their name. thanks. "
+2111111111,4879301833,9082456896,20060215,1631,True,hello this is lisa coreo with princeton university. I am a chef. do you know of any produce sellers in the area. thanks. bye. 
+2666666666,6094660035,9082456830,20060416,0842,False,hi this is moe from moes tavern. I am a bartender. I was just checking that it is still not possible for me to advertise on campus. thanks. 
+2777777777,6094660035,9082456867,20060518,1403,True,This is john candy from apple. I am a sales rep. would you like to buy some software. 
+2999999999,6094660035,9082456890,20060520,1126,True,This is mike smith from orange. sales rep. would you like to buy some software, you can download it from textspeier.de.
+2010101010,6094660035,9082456892,20060819,1638,False,Hi this is mike jones from pear. I am the sales rep. would you like a firewall. thanks bye 
+2888888888,6094660035,9082456891,20061015,0952,False,I am john doe from apple where I am a sales rep. would you like to buy some software. great. 
+1111111111,6092403785,9082456657,20040521,1439,False,hi this is ned flanders from the lafayette dog shelter. I am a veterinarian. what kind of job openings are available. thanks I will call back later. bye 
+1111111111,6092408935,9082456657,20040914,0834,False,hi this is ned flanders from the lafayette dog shelter. I am a veterinarian. I am calling again regarding job positions. ok thanks bye. 
+1111111111,6094663871,9082456653,20050608,1145,False,hi this is ned flanders from the lafayette dog shelter. I am a veterinarian. I am interested in how many new employees you have hired recently. thanks for the information. bye 
+1111111111,7172400034,9082456659,20050609,1034,False,hi this is ned flanders from the lafayette dog shelter. I am a veterinarian. I am giving a survey to new nurses can you give me the name of any at your veterinary hospital. that would be great. thanks bye. 
+1111111111,6092401123,9082456652,20050609,1104,False,hi this is ned flanders from the lafayette dog shelter. I am a veterinarian. I am giving a survey to new nurses can you give me the name of any at your veterinary hospital. thanks is there anyone else who might know more. thanks for all your help bye 
+1111111111,7173825901,9082456661,20050610,1309,True,hi this is ned flanders from the lafayette dog shelter. I am a veterinarian. is susan colman in I would like to talk to her. thanks. 
+1111111111,7173825901,9082456654,20050611,1555,True,hi this is ned flanders from the lafayette dog shelter. I am a veterinarian. is jenny smith in I would like to talk to her. thanks. 
+1111111111,6092403786,9082456662,20050612,1602,True,hi this is ned flanders from the lafayette dog shelter. I am a veterinarian. is erica jones in I would like to talk to her. thanks. 
+1111111111,5557830972,9082456650,20050613,1635,True,hi this is ned flanders from the lafayette dog shelter. I am a veterinarian. is ben feldman in I would like to talk to him. thanks. 
+1111111111,4247590326,9082456656,20060322,1017,True,hi this is ned flanders from the lafayette dog shelter. I am a veterinarian. what kind of job openings are available. thanks I will call back later. bye
+1111111111,7172406742,9082456664,20060714,0923,False,hi this is ned flanders from the lafayette dog shelter. I am a veterinarian. what kind of job openings are available. thanks I will call back later. bye
+1111111111,6094660035,9082456838,20030513,1035,False,Hi this is bono with u two. I am a singer. I would like to book a concert. sometime in april would be great. sure just let me know. thanks bye.
+1111111111,6094660034,9082456897,20040113,0835,False,Hi this is bono smith from u two. I am a singer. I just wanted to make sure you had not forgotten to call back because it has been a while. ok no problem. bye.
+1111111111,6094660036,9082456838,20050313,1135,False,Hi this is bono with u two. I am a singer. what are good hotels to say at while I am in the area. great thanks.
+1111111111,6094660036,9082456838,20050314,1435,True,Hi this is larry mullen from u two. I am a singer. I just wanted to make sure that bono is given a nicer room than the rest of the band. thanks.
+1111111111,6094660037,9082456838,20060413,1535,True,Hi this is bono jones with u two. I am a singer. I forgot my room number for when I will be staying at your establishment. thanks. bye.
+1111111111,6094660037,9082456838,20060714,1635,True,Hi this is bono with u two. I am a singer. I just wanted to make sure everything is set up for tonight. great. bye.
+2222222222,6094660078,9082456833,20070113,0835,False,Hi this is simon jones with sun. I am a salesman. are you in the market for a new server solution. If not, our site is gmail.com  ok thanks.
+2222222222,6094660078,9082456833,20070313,1535,False,Hi this is simon with sun. I am a salesman. this is just a follow up to confirm that you do not need a new server. ok bye.
+2222222222,6094660078,9082456833,20070513,1124,False,Hi this is simon jones with sun. I am a salesman. we just released a new server series that I thought might help you. bye.
+2222222222,6094660078,9082456833,20070613,1052,True,Hi this is simon smith from sun. I am a salesman. I was wondering if you have heard from simon jones recently. did he inform you about our new series of servers. great just wanted to make sure. bye.
+2222222222,6094660078,9082456833,20070913,1605,False,Hi this is simon with sun. I am a salesman. Did you have a chance to talk to your boss. I will send a test unit out. bye.
+1111111111,6094660035,9082456838,20020513,1035,False,Hi this is sam fisher with sun. I am a tech support specialist. I am calling to let you know there is an update to your server. please make sure to apply it. bye.
+1111111111,6094660035,9082456838,20030313,1347,False,Hi this is sam fisher with sun. I am a tech support specialist. Our records show that you have not paid for another year of support. are you still interested in this. ok I will call back with the details. bye.
+1111111111,6094660034,9082456897,20040113,0835,False,Hi this is sam fisher from sun. I am a tech support specialist. I am calling regarding the renewal of you technical support package. Send a check to us for five hundred dollars and we will renew your subscription. bye.
+1111111111,6094660036,9082456838,20050313,1035,False,Hi this is sam fisher with orange inc. I am a tech support specialist. we are conducting a survey of how satisfied customers are with their technical support. on a scale of one to ten what would you rank yours. thanks. bye.
+1111111111,6094660037,9082456838,20060413,1035,True,Hi this is sam fisher with sun. I am a tech support specialist. we need to confirm our records are correct. so could you please read me your serial number. thanks. bye.
+1111111111,6094660037,9082456838,20061113,1035,True,Hi this is sam fisher with sun. I am a tech support specialist. I am calling about a problem other customers have been having with s s l on our web servers. have you had an problems. great that is all. bye.
+1111111111,6094660037,9082456838,20070513,1035,False,Hi this is sam fisher with sun. I am a tech support specialist. we are issuing a recall on your servers heat sink. a new one should arrive within a day. ok bye.
+1111111111,6094660037,9082456838,20070713,1035,True,Hi this is sam fisher with orange inc. I am a sales rep. I am calling to see if you are interested in purchasing one of our servers. are you currently in the market for servers. ok thanks. bye.
+1111111111,6094660037,9082456838,20070913,1035,True,Hi this is sam fisher with orange inc. I am a sales rep. I am calling back regarding purchasing our a new server. are you still interested. ok thanks. bye.
+1111111111,6094660037,9082456838,20091013,1035,False,Hi this is sam fisher with sun. I am a tech support specialist. I am calling to inform you that there is an update to your server. please make sure to update it. bye.
+1111111111,6094660037,9082456838,20131013,1035,True,Hi this is sam fisher with sun. I am a tech support specialist. we need to ensure our records are correct. could you please tell me the model number of the server we sold you recently. thanks bye 	ad.getfond.info.
+4444444444,6094660035,9082456893,20050215,2050,False,This is mike smith from orange. I am a Sales Rep. would you like to buy some software. bye.
+5555555555,6094660036,9082456847,20050221,1254,False,Hi this is mike jones from orange. I am the sales rep. would you like a firewall. thanks bye.
+3333333333,6094660038,9082456829,20050422,1315,False,I am john doe from Apple computers. I am a sales rep. would you like to buy some software. great.
+2222222222,6094660035,9082456896,20050515,1150,False,This is john candy from Apple. I am a Sales Rep. would you like to buy some software.
+1111111111,4879301873,9082456894,20050524,1433,False,hi this is moe sislack from moes tavern. I am the bartender. I am interested in advertising on campus. bye.
+6666666666,4879301856,9082456895,20050605,0834,False,I am lisa coreo with princeton university. I am a chef. I need to purchase six hundred yams. thanks.
+9999999999,4879301867,9082456898,20050822,1436,False,this is tim rose with rose industries. I am the ceo. you are using one of my trademarks. please stop or I will sue. bye www.facebook.com.
+1010101010,4879301889,9082456845,20051012,0948,False,I am willard white from willard whilte industries. I am the owner. I am interested in donating to the university. please send me the details. bye.
+8888888888,4879301254,9082456878,20051111,1551,False,hello this is james stock of the london financial times. I am a journalist. I was wondering if I could schedule an interview with president jiskey. ok thanks.
+7777777777,4879301874,9082456824,20051228,1421,True,this is jack bauer with the ctu. I am an operative. Can you connect me to CERIAS for help subverting a security system. thanks.
+2444444444,4879301811,9082456889,20060205,1706,True,this is tim jones with rose industries where I am the ceo. please disregard my last call I had the wrong university.
+2555555555,4879301800,9082456836,20060209,1219,False,this is willard white from ww industries. I am the owner. I decided I would like to name my building blowfeld labs. great. thanks https://www.itgovernance.co.uk.
+2333333333,4879301820,9082456890,20060210,1041,True,hi this is james moore with the london financial times. I am a journalist. do you have any more demographical data of the university population. thanks.
+2122222222,4879301890,9082456894,20060212,0933,True,"this is bauer jack bauer. I am an operative with the counter terrorism unit. I forgot who you connected me to last time, can you tell me their name. thanks. "
+2111111111,4879301833,9082456896,20060215,1631,True,"peter coreo here the head chef at princeton university. can you cancel my last order, we don't need it any more. thanks. bye. "
+2666666666,6094660035,9082456830,20060416,0842,True,hi this is jenny heights from notre dame. I am with student services looking for a for a new student information database system. Do you have time to tell me about yours. thanks bye.
+2777777777,6094660035,9082456867,20060518,1403,True,hi this is your sales rep samuel pitt from rocket software. would you like to buy some software.
+2999999999,6094660035,9082456890,20060520,1126,True,hello I am a sales rep from orange. oh sorry ben bert. would you like to buy some software.
+2010101010,6094660035,9082456892,20060819,1638,True,Hi this is justin jones I am a sales rep from pear. would you like a firewall. thanks bye
+2888888888,6094660035,9082456891,20061015,0952,False,I am john doe from Apple where I am a sales rep. would you like to buy some software. great.
